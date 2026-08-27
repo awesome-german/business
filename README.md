@@ -1662,3 +1662,19 @@ Viel Erfolg bei Ihrer beruflichen Entwicklung! (Good luck with your professional
 - Zahlung - payment
 - Ziel - goal
 - Zusammenarbeit - cooperation
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**bio**](https://github.com/didvc/bio) — Profile writings and translations of Vulpes (didvc)
+- [**communities**](https://github.com/awesome-german/communities) — Online and offline German learning communities for discussion, support, and collaboration.
+- [**terminology**](https://github.com/awesome-german/terminology)
+- [**web-resources**](https://github.com/awesome-german/web-resources)
+- [**pragmatics**](https://github.com/awesome-german/pragmatics)
+- [**living**](https://github.com/awesome-germany/living)
+- [**universities**](https://github.com/awesome-nihon/universities)
+- [**html-bio-generator**](https://github.com/didvc/html-bio-generator) — A modern, intuitive tool for creating beautiful HTML bio pages with ease. Built with Next.js, TypeScript, and Tailwind CSS. Perfect for…
+<!-- END gh-mutual-linking -->
