@@ -475,6 +475,12 @@ Templates and examples for German business documents.
 - [Kündigung Vorlage](https://www.kuendigung.org/) - Termination letter templates.
 - [Mahnung Muster](https://www.mahnung-vorlage.de/) - Reminder and dunning letter templates.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -1663,18 +1669,21 @@ Viel Erfolg bei Ihrer beruflichen Entwicklung! (Good luck with your professional
 - Ziel - goal
 - Zusammenarbeit - cooperation
 
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
 <!-- BEGIN gh-mutual-linking -->
 
 ---
 
 ### Related projects
 
-- [**bio**](https://github.com/didvc/bio) — Profile writings and translations of Vulpes (didvc)
-- [**communities**](https://github.com/awesome-german/communities) — Online and offline German learning communities for discussion, support, and collaboration.
-- [**terminology**](https://github.com/awesome-german/terminology)
-- [**web-resources**](https://github.com/awesome-german/web-resources)
-- [**pragmatics**](https://github.com/awesome-german/pragmatics)
-- [**living**](https://github.com/awesome-germany/living)
-- [**universities**](https://github.com/awesome-nihon/universities)
-- [**html-bio-generator**](https://github.com/didvc/html-bio-generator) — A modern, intuitive tool for creating beautiful HTML bio pages with ease. Built with Next.js, TypeScript, and Tailwind CSS. Perfect for…
+- [terminology](https://github.com/awesome-german/terminology): Terminological databases, domain-specific glossaries, dictionaries, and resources for technical German language learning and professional translation.
+- [phrases](https://github.com/awesome-german/phrases): Common German phrases and expressions for everyday conversation.
+- [speaking](https://github.com/awesome-german/speaking): Resources and methods to improve spoken German, pronunciation, and real-life conversation skills.
+- [pragmatics](https://github.com/awesome-german/pragmatics): Resources for German pragmatics, covering contextual language use, politeness strategies, and discourse analysis.
+
 <!-- END gh-mutual-linking -->
